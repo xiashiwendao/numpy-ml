@@ -1,3 +1,5 @@
+#使用numpy手写机器学习算法，牛逼
+
 # numpy-ml
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in numpy? No? 
